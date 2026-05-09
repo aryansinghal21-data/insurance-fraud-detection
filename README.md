@@ -66,7 +66,7 @@ Insurance fraud costs the global industry **$80+ billion per year**. This projec
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/insurance-fraud-detection
+git clone https://github.com/aryansinghal21-data/insurance-fraud-detection
 cd insurance-fraud-detection
 pip install -r requirements.txt
 jupyter notebook notebooks/fraud_detection.ipynb
@@ -95,5 +95,5 @@ insurance-fraud-detection/
 ---
 
 ## 👤 Author
-**[Your Name]** | Aspiring Actuarial Data Analyst  
+Aryan Singhal | Aspiring Actuarial Data Analyst  
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
