@@ -96,4 +96,4 @@ insurance-fraud-detection/
 
 ## 👤 Author
 Aryan Singhal | Aspiring Actuarial Data Analyst  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/aryansinghal21/) | [Email](mailto:aryansinghal821@gmail.com)
